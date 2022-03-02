@@ -21,24 +21,22 @@ Dashboard
 <br>
 
 ![register](/img/register.png "Register"  )
-
 Registration Page
-
+#
 <br>
 
 ![Login](/img/login.png "Login")
-
 Login Page
-
+#
 <br>
 
 ![Questions](/img/questions.png "Questions")
 Questions Page
-
+#
 <br>
 
 ![Leaderboard](/img/leaderboard.png "Leaderboard")
 Leaderboard
-
+#
 
 
