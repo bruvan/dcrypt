@@ -15,14 +15,28 @@ Official Website  for dCrypt 2020 - A cryptic hunt conducted by nCrypt, DPS Sush
 ## Screenshots
 
 ![Dashboard](/img/dashboard.png "Dashboard")
+
 Dashboard
 
+<br>
+
 ![register](/img/register.png "Register"  )
+
 Registration Page
+
+<br>
+
 ![Login](/img/login.png "Login")
+
 Login Page
+
+<br>
+
 ![Questions](/img/questions.png "Questions")
 Questions Page
+
+<br>
+
 ![Leaderboard](/img/leaderboard.png "Leaderboard")
 Leaderboard
 
